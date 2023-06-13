@@ -21,3 +21,7 @@
   - 看懂Figma插件代码
   - 修好之前的插件
   - 用React结合Headless CMS写一个作品集网站
+- Fuiru11's Objectives
+  - Debug frontend if necessary
+  - Set up custom code in analytics tool
+  - Rebuild personal website (not very motivated tho...)
