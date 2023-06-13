@@ -31,3 +31,7 @@ js暂且不用掌握闭包、原型链等高级概念，学会获取DOM并改变
   - Debug frontend if necessary
   - Set up custom code in analytics tool
   - Rebuild personal website (not very motivated tho...)
+- yaooo's Objectives
+  - 写一个有一个项目的作品集网站
+  - 写一个OA系统的功能模块
+  - 用react写一个VR场景下的网页
