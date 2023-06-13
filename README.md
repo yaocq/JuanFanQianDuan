@@ -14,7 +14,7 @@
 - 前端学习路线图：[FrontEnd Roadmap](https://roadmap.sh/)
 - React初学教程：[React JS Tutorial For Beginners 2023](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
 - 最好的JS教程：[javascript.info](javascript.info)
-- 流行React样式库[Tailwind CSS](https://tailwindcss.com/)
+- 流行React样式库：[Tailwind CSS](https://tailwindcss.com/)
 
 ## Objectives
 - Sny‘s Objectives
