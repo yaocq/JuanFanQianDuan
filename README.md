@@ -9,3 +9,6 @@ html没啥可学的，css太繁杂，但一定要熟练掌握flex、grid布局�
 消除对后端的恐惧后，了解一点数据库，用node框架如nest做个复杂点的后端应用。
 这时候肯定要用到运维知识。学一下docker和网络知识。
 你就可以自称全栈了。
+
+## Online Resource
+https://roadmap.sh/
