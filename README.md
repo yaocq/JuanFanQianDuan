@@ -1,10 +1,6 @@
 # JuanFanQianDuan
 ## 卷翻前端学习路线
-1. **打基础**
-1. **打基础**
-   
 1. **打基础**  
-   
    不管是MDN还是其他，免费资源就够。先大致了解html语法，简单的css属性，js基础语法（会写循环、判断），这一步不要停留太久，不要深究细节，看再多也做不出实际产品来。很多人就陷在这一步。  
    强烈推荐购买 [https://scrimba.com/learn/frontend](https://scrimba.com/learn/frontend) ，按照这个路线图学习。这个网站很好的一点是编辑器即视频，随时可以在视频中点击进入编辑状态，强迫你敲代码。根据自身情况选择模块学习。建议新手不要跳过，按顺序来。最起码学到React Basics。
 2. **html没啥可学的，css太繁杂，但一定要熟练掌握flex、grid布局**  
@@ -25,6 +21,7 @@ js暂且不用掌握闭包、原型链等高级概念，学会获取DOM并改变
 - React初学教程：[React JS Tutorial For Beginners 2023](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
 - 最好的JS教程：[javascript.info](javascript.info)
 - 流行React样式库：[Tailwind CSS](https://tailwindcss.com/)
+- [Facebook Official React Course: from Basic to Advanced](https://www.youtube.com/watch?v=cd3P3yXyx30)
 
 ## Objectives
 - Sny‘s Objectives
