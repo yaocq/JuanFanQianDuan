@@ -36,3 +36,28 @@ js暂且不用掌握闭包、原型链等高级概念，学会获取DOM并改变
   - 写一个有一个项目的作品集网站
   - 写一个OA系统的功能模块
   - 用react写一个VR场景下的网页
+
+## React Knowledge Framework
+- React Basic Concepts
+- Component Types
+  - Function Component
+  - Class Component
+- Data Flow
+  - Props & Children in Components
+  - useContext Hook Function
+- State in Components
+  - Function Component State
+    - useState Hook Function
+    - useReducer Hook Function
+  - Class Component State
+  - Statefull & Stateless Component
+- Event Handling
+  - Function Component Event Handling
+  - Class Component Event Handling
+- Routing
+  - react-router-dom Library
+- Using Assets
+- Conditional Rendering
+- Array Rendering  
+...
+
