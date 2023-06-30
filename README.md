@@ -58,6 +58,24 @@ js暂且不用掌握闭包、原型链等高级概念，学会获取DOM并改变
   - react-router-dom Library
 - Using Assets
 - Conditional Rendering
-- Array Rendering  
+- Array Rendering
+- Form Elements & Controlled Component
+- Hooks
+  - Rules
+  - Common Used Hooks
+    - useState Hook
+    - useEffect Hook
+    - useReducer Hook
+    - useRef Hook
+- Fetching Data
+- JSX
+  - React.cloneElement() API
+  - React.Children API
+  - Spread Operator
+- Code Reusability in React (**Difficult**)
+  - High Order Component (HOC)
+  - Render Props
+- Testing
+
 ...
 
