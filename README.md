@@ -76,6 +76,8 @@ js暂且不用掌握闭包、原型链等高级概念，学会获取DOM并改变
   - High Order Component (HOC)
   - Render Props
 - Testing
+  - Jest
+  - React Testing Library
 
 ...
 
