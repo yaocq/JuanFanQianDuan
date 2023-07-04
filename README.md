@@ -25,17 +25,36 @@ js暂且不用掌握闭包、原型链等高级概念，学会获取DOM并改变
 
 ## Objectives
 - Sny‘s Objectives
-  - 看懂Figma插件代码
-  - 修好之前的插件
-  - 用React结合Headless CMS写一个作品集网站
+  - O1: 看懂Figma插件代码
+  - O2: 修好之前的插件
+  - O3: 用React结合Headless CMS写一个作品集网站
 - Fuiru11's Objectives
-  - Debug frontend if necessary
-  - Set up custom code in analytics tool
-  - Rebuild personal website (not very motivated tho...)
+  - O1: Debug frontend if necessary
+  - O2: Set up custom code in analytics tool
+  - O3: Rebuild personal website (not very motivated tho...)
 - yaooo's Objectives
-  - 写一个有一个项目的作品集网站
-  - 写一个OA系统的功能模块
-  - 用react写一个VR场景下的网页
+  - O1: 写一个有一个项目的作品集网站
+  - O2: 写一个OA系统的功能模块
+  - O3: 用react写一个VR场景下的网页
+
+## Things to Learn
+- for Sny‘s Objectives
+  - O1, O2
+    - Typescript for React
+    - Figma Plugin API
+  - O2
+    - Tailwind CSS
+    - NextJS
+    - Strapi
+- for Fuiru11 Objectives
+  - O1
+  - O2
+  - O3
+- for yaooo Objectives
+  - O1
+  - O2
+  - O3
+
 
 ## React Knowledge Framework
 - React Basic Concepts
